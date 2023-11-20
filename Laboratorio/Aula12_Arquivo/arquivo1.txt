@@ -1,0 +1,33 @@
+minha primeira linha
+
+teste
+-----------Livro----------------
+Lucas Arts
+400
+Star Wars
+-----------Computador-----------
+Razer
+500
+8
+minha primeira linha
+
+teste
+-----------Livro----------------
+Lucas Arts
+400
+Star Wars
+-----------Computador-----------
+Razer
+500
+8
+minha primeira linha
+
+teste
+-----------Livro----------------
+Lucas Arts
+400
+Star Wars
+-----------Computador-----------
+Razer
+500
+8

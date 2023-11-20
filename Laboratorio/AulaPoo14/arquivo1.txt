@@ -1,0 +1,20 @@
+------------------SORVETE---------------------
+Flocos
+Groselha
+true
+5
+------------------SORVETE---------------------
+Sangue de Dragão
+Uva verde
+false
+4
+------------------SORVETE---------------------
+Limão Suiço
+Morango
+false
+3
+------------------SORVETE---------------------
+Ferrero Rocher
+Groselha
+true
+6
